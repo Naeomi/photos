@@ -1,0 +1,6 @@
+name: NaeomiPluim.com/photos
+description: A basic image repository
+version: 0.1
+
+exclude:
+- "*.bash"
